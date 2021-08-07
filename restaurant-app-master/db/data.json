@@ -1,0 +1,46 @@
+{
+  "restaurants":[
+    {
+      "id":1,
+      "name":"Le petit Paris",
+      "rating":5.0,
+      "coor_x":1.0,
+      "coor_y":1.0
+    },
+    {
+      "id":2,
+      "name":"Bakanja Plazza",
+      "rating":2.5,
+      "coor_x":-5.0,
+      "coor_y":2.0
+    },
+    {
+      "id":3,
+      "name":"Benelus Resto",
+      "rating":1.5,
+      "coor_x":1.0,
+      "coor_y":5.0
+    },
+    {
+      "id":4,
+      "name":"Mama Africa",
+      "rating":4.5,
+      "coor_x":-2.0,
+      "coor_y":3.0
+    },
+    {
+      "id":5,
+      "name":"Nyaragongo Food",
+      "rating":3.5,
+      "coor_x":4.0,
+      "coor_y":-5.0
+    },
+    {
+      "id":6,
+      "name":"Bengazi Resto",
+      "rating":5.0,
+      "coor_x":-5.0,
+      "coor_y":-4.0
+    }
+  ]
+}
